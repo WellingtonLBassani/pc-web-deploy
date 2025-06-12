@@ -5,6 +5,7 @@
 ## Como instalar o PHP
 
 ```
+WELLINGTON
 sudo apt update
 
 sudo add-apt-repository ppa:ondrej/php
@@ -59,7 +60,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName [ip-da-sua-vm]
+    ServerName 98.81.196.110
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
@@ -71,6 +72,7 @@ sudo nano app.conf
     CustomLog ${APACHE_LOG_DIR}/laravel-access.log combined
 </VirtualHost>
 ```
+<control o pra salvar control x pra sair>
 
 Agora basta executar os seguintes comandos
 
