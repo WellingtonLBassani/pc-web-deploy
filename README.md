@@ -5,7 +5,7 @@
 ## Como instalar o PHP
 
 ```
-WELLINGTON
+WELLINGTON122
 sudo apt update
 
 sudo add-apt-repository ppa:ondrej/php
