@@ -5,7 +5,7 @@
 ## Como instalar o PHP
 
 ```
-WELLINGTON122
+WELLINGTON123134
 sudo apt update
 
 sudo add-apt-repository ppa:ondrej/php
@@ -60,7 +60,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName 98.81.196.110
+    ServerName 18.208.165.83
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
